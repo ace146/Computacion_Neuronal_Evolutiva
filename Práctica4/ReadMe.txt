@@ -1,0 +1,1 @@
+Está configurado para que lea el archivo D_metropolis automaticamente si se encuentra en la misma carperta, si se desea introducir un archivo por argumento hay que descomentar las últimas lineas de la ultima función y comentar las anteriores.
